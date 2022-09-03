@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'EmotionChild', // Usually your GitHub org/user name.
+  organizationName: 'EllieBotDevs', // Usually your GitHub org/user name.
   projectName: 'Ellie-Blog', // Usually your repo name.
   trailingSlash: false,
 
@@ -30,7 +30,7 @@ const config = {
             frontMatter.hide_reading_time ? undefined : defaultReadingTime({content}),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/EmotionChild/Ellie-Blog/tree/dev/blog',
+            'https://github.com/EllieBotDevs/Ellie-Blog/tree/dev/blog',
           blogTitle: 'Ellie Blog',
           blogDescription: 'Here you can find blog posts about Ellie and other things we are up to',
           postsPerPage: 'ALL',
@@ -57,7 +57,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/EmotionChild/Ellie-Blog',
+            href: 'https://github.com/EllieBotDevs/Ellie-Blog',
             label: 'GitHub',
             position: 'right',
           },
@@ -93,7 +93,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/EmotionChild/Ellie-Blog',
+                href: 'https://github.com/EllieBotDevs/Ellie-Blog',
               },
             ],
           },
