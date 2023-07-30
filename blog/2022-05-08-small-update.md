@@ -1,7 +1,7 @@
 ---
 slug: small-update-on-things
 title: Update on Stuff
-authors: [EmotionChild]
+authors: [Toastie]
 tags: [Devlog]
 ---
 

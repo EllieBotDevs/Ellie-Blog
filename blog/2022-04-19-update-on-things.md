@@ -1,7 +1,7 @@
 ---
 slug: update-on-things
 title: Update on things
-authors: [EmotionChild]
+authors: [Toastie]
 tags: [update]
 ---
 
