@@ -84,7 +84,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/Computergeex5',
+                href: 'https://twitter.com/toastie_t0ast',
               },
             ],
           },

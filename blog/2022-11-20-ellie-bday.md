@@ -1,7 +1,7 @@
 ---
 slug: ellie-bday-2022
 title: Ellie bot and project birthday
-authors: [EmotionChild]
+authors: [Toastie]
 tags: [Devlog]
 ---
 

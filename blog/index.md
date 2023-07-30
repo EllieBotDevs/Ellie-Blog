@@ -1,7 +1,7 @@
 ---
 slug: welcome
 title: Welcome to our blog
-authors: [EmotionChild]
+authors: [Toastie]
 tags: [welcome]
 ---
 

@@ -1,7 +1,7 @@
 ---
 slug: another-update
 title: Another small update
-authors: [EmotionChild]
+authors: [Toastie]
 tags: [Devlog]
 ---
 
