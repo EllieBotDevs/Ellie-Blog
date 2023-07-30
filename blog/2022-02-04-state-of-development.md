@@ -1,7 +1,7 @@
 ---
 slug: state-of-development
 title: State of development
-authors: [ActuallyRude]
+authors: [Mai_lanfiel]
 tags: [Devlog]
 ---
 
