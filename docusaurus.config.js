@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Emotions Blog',
-  tagline: 'The chaotic world of EmotionChild',
+  title: 'Toasties Blog',
+  tagline: 'The chaotic world of Toastie_t0ast',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://blog.emotionchild.com',
+  url: 'https://blog.toastiet0ast.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -43,12 +43,12 @@ const config = {
           showReadingTime: true,
           readingTime: ({content, frontMatter, defaultReadingTime}) =>
             frontMatter.hide_reading_time ? undefined : defaultReadingTime({content}),
-          blogTitle: 'Emotion Blog',
-          blogDescription: 'Here you can find blog posts about what Emotion has gotten up to',
+          blogTitle: 'Toasties Blog',
+          blogDescription: 'Here you can find blog posts about what Toastie has gotten up to',
           postsPerPage: 'ALL',
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} EmotionChild.`,
+            copyright: `Copyright © ${new Date().getFullYear()} toastie_t0ast.`,
           },
         },
         theme: {
@@ -63,7 +63,7 @@ const config = {
     ({
       // Replace with your project's social card
       navbar: {
-        title: 'Emotions Blog',
+        title: 'Toasties Blog',
         logo: {
           alt: 'My Site Logo',
           src: 'img/favicon.png',
@@ -102,7 +102,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} EmotionChild`,
+        copyright: `Copyright © ${new Date().getFullYear()} ToastieChild`,
       },
       prism: {
         theme: lightCodeTheme,
