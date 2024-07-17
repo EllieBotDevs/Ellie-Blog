@@ -1,10 +1,10 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://blog.toastiet0ast.com/", // replace this with your deployed domain
-  author: "Toastie",
-  desc: "The ramblins of a random software developer.",
-  title: "Toastie's blog",
+  website: "https://blog.elliebot.net/", // replace this with your deployed domain
+  author: "toastie_t0ast, mai_lanfiel, EllieBot_Team",
+  desc: "The tales of the Ellie dev team.",
+  title: "Elliebot blog",
   ogImage: "",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -22,31 +22,19 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Mail",
-    href: "mailto:toastie@toastiet0ast.com",
+    href: "mailto:contact@elliebot.net",
     linkTitle: `Send an email to me`,
     active: true,
   },
   {
-    name: "Twitch",
-    href: "https://twitch.tv/toastie_t0ast",
-    linkTitle: `My channel on Twitch`,
-    active: true,
-  },
-  {
-    name: "YouTube",
-    href: "https://youtube.com/@toastie_t0ast",
-    linkTitle: `My YouTube channel`,
-    active: true,
-  },
-  {
     name: "Discord",
-    href: "https://discord.gg/aAsGMFPfdu",
+    href: "https://discord.gg/etQdZxSyEH",
     linkTitle: `My Discord server`,
     active: true,
   },
   {
     name: "Mastodon",
-    href: "https://valkyriecoms.com/@toastie",
+    href: "https://valkyriecoms.com/@EllieBotDevs",
     linkTitle: `My profile on Valkyriecoms`,
     active: true,
   },
