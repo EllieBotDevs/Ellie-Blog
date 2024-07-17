@@ -3,4 +3,4 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Hi there I am Toastie a software developer from New Zealand I mostly write Discord bots and some other things, I hope you like what I post here.
+Hi there we are the developers on the EllieBot discord bot project, I hope you like what I post here.
