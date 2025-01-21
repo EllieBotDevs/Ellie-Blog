@@ -1,3 +1,3 @@
-# Ellibot project blog
+# Elliebot project blog
 
 The code responsible for making the blog at https://blog.elliebot.net work
