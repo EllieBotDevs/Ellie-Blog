@@ -2,6 +2,7 @@
 author: toastie_t0ast, EllieBot_Team
 pubDatetime: 2023-07-31
 title: Where toastie has been
+slug: where-toastie-has-been
 description: Another small update
 tags:
   - devlog

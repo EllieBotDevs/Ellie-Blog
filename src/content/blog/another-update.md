@@ -2,6 +2,7 @@
 author: toastie_t0ast
 pubDatetime: 2022-11-14
 title: Another update
+slug: another-update
 description: Another small update
 tags:
   - devlog

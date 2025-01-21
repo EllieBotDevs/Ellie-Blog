@@ -2,6 +2,7 @@
 author: mai_lanfiel
 pubDatetime: 2022-04-02
 title: State of development
+slug: state-of-development
 description: EllieBot state of development
 tags:
   - project-update

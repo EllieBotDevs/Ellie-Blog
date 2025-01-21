@@ -2,6 +2,7 @@
 author: toastie_t0ast
 pubDatetime: 2022-08-05
 title: Small update
+slug: small-update
 description: small update on things
 tags:
   - devlog

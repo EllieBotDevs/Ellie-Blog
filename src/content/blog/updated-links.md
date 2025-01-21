@@ -2,6 +2,7 @@
 author: EllieBot_Team
 pubDatetime: 2022-07-02
 title: Updated links
+slug: updated-links
 description: About our updated links.
 tags:
   - announcement

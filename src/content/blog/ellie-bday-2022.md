@@ -2,6 +2,7 @@
 author: toastie_t0ast
 pubDatetime: 2022-11-20
 title: Ellie bday 2022
+slug: ellie-bday-2022
 description: Ellie bot and project birthday
 tags:
   - devlog

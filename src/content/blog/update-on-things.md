@@ -2,6 +2,7 @@
 author: toastie_t0ast
 pubDatetime: 2022-07-02
 title: Update on things
+slug: update-on-things
 description: A small update on what we are up to.
 tags:
   - update
